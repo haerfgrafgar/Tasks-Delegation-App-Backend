@@ -1,0 +1,6 @@
+@CordApp_HostAddress = http://localhost:5071
+
+GET {{CordApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
